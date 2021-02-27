@@ -1,0 +1,7 @@
+selenium import webdriver
+selenium.webdriver.common.keys import Keys
+selenium.webdriver.support.ui import Select
+xlsxwriter
+pyperclip
+sys
+os
